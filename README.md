@@ -128,7 +128,7 @@ Outros conceitos CSS:
 - `<nav>` - Define a barra de navegação da página
 - `<div>` - Cria um elemento de divisão genérico
 - `<img>` - Define uma imagem a ser exibida
-- `<button>` - Cria um botão clicável
+- `<button>` - Cria um botão clicável.
 
 ### 🔴 CI / CD - CI (Integração Contínua) e CD (Entrega Contínua)
 
